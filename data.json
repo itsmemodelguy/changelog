@@ -2,7 +2,8 @@
   "description": "telling our demises",
   "entries": {
     "1": {
-      "date": "how can i get the current date in json? i have no idea",
+      "date": "[02/13/2026]",
+      "header": "Changesss",
       "contents": {
         "1": "Changelog now uses json data instead of data from the module.",
         "2": "Cleaning up the game so it's more maintainable and easier to understand",
