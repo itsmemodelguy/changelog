@@ -1,7 +1,13 @@
 {
-  "name": "telling our demises",
+  "description": "telling our demises",
   "entries": {
-    "hi",
-    "ok"
+    "1": {
+      "date": "how can i get the current date in json? i have no idea",
+      "contents": {
+        "1": "Changelog now uses json data instead of data from the module.",
+        "2": "Cleaning up the game so it's more maintainable and easier to understand",
+        "3": "Planning to work more and add CrazyNoob as killer while also RECODING THE GAME MUHAHAHAHAH"
+      }
+    }
   }
 }
